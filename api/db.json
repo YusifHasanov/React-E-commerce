@@ -1,0 +1,206 @@
+{
+  "products": {
+    "starWars": [
+      {
+        "id": 1,
+        "url": "https://images.unsplash.com/photo-1472457897821-70d3819a0e24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c3RhciUyMHdhciUyMHNvbGRpZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Lego Soldier",
+        "price": "60.00",
+        "category": "starWars",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 2,
+        "url": "https://images.unsplash.com/photo-1546561892-65bf811416b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFydGglMjB2YWRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Darth Vader",
+        "price": "58.00",
+        "category": "starWars",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 3,
+        "url": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHN0YXIlMjB3YXJzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Master Yoda",
+        "price": "44.00",
+        "category": "starWars",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 4,
+        "url": "https://images.unsplash.com/photo-1579935110464-fcd041be62d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c3RhciUyMHdhciUyMHNvbGRpZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Soldier",
+        "price": "71.00",
+        "category": "starWars",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 5,
+        "url": "https://images.unsplash.com/photo-1601814933824-fd0b574dd592?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c3RhciUyMHdhcnN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Little Yoda",
+        "price": "82.00",
+        "category": "starWars",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 6,
+        "url": "https://images.unsplash.com/photo-1579972668140-f7da53ccc2a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8c3RhciUyMHdhcnMlMjBhbmFraW58ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Ugly Alien",
+        "price": "56.00",
+        "category": "starWars",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      }
+    ],
+    "consoles": [
+      {
+        "id": 7,
+        "url": "https://images.unsplash.com/photo-1614294148960-9aa740632a87?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8eGJveHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Xbox Gamepad",
+        "price": "80.00",
+        "category": "consoles",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 8,
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGxheXN0YXRpb24lMjA1fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Play Station 5",
+        "price": "200.00",
+        "category": "consoles",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 9,
+        "url": "https://images.unsplash.com/photo-1531594835867-65b60cc9e4ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b2xkJTIwbmludGVuZG98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Old Nintendo",
+        "price": "90.00",
+        "category": "consoles",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 10,
+        "url": "https://images.unsplash.com/photo-1591182136289-67ff16828fd4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmludGVuZG8lMjBzd2l0Y2h8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Nintendo Switch",
+        "price": "60.00",
+        "category": "consoles",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 11,
+        "url": "https://images.unsplash.com/photo-1605901309584-818e25960a8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8eGJveHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Xbox One",
+        "price": "180.00",
+        "category": "consoles",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 12,
+        "url": "https://images.unsplash.com/photo-1599933310642-8f07bdea325a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dGV0cmlzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Tetris",
+        "price": "35.00",
+        "category": "consoles",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      }
+    ],
+    "diverse": [
+      {
+        "id": 13,
+        "url": "https://images.unsplash.com/photo-1617744216376-2a5283a1671d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8c2VnYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Sega",
+        "price": "60.00",
+        "category": "diverse",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 14,
+        "url": "https://images.unsplash.com/photo-1576005634133-f755bf15d9c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGdhbWVwYWR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Gamepad",
+        "price": "25.00",
+        "category": "diverse",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 15,
+        "url": "https://images.unsplash.com/photo-1550747545-c896b5f89ff7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c29uaWN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Sonic",
+        "price": "60.00",
+        "category": "diverse",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 16,
+        "url": "https://images.unsplash.com/photo-1541480601022-2308c0f02487?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvY2t8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Clock",
+        "price": "55.00",
+        "category": "diverse",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 17,
+        "url": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dnIlMjBnbGFzc2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Vr Glasses",
+        "price": "120.00",
+        "category": "diverse",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      },
+      {
+        "id": 18,
+        "url": "https://images.unsplash.com/photo-1613170812802-cb91fe53612b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y3V0ZSUyMGJlYXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Cute Bear",
+        "price": "44.00",
+        "category": "diverse",
+        "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+      }
+    ]
+  },
+  "customers": [
+    {
+      "name": "nebi",
+      "email": "nebi@gmail.com",
+      "password": "Nebi123",
+      "id": "3qNhS8u0nHwmplqmHPWcw"
+    },
+    {
+      "name": "yusif",
+      "email": "yusif@gmail.com",
+      "password": "321Abcss",
+      "id": "HfygHv-R1WsSX0B7Ga7F9"
+    },
+    {
+      "name": "elesger",
+      "email": "elesger@gmail.com",
+      "password": "elesgerE123",
+      "id": "BmjU-7DVO04zzVj7A6V4l"
+    },
+    {
+      "name": "Samir",
+      "email": "samir@gmail.com",
+      "password": "sAmir123",
+      "id": "yzheYYSIAvsctmZ3bxxyQ"
+    },
+    {
+      "name": "Rehman",
+      "email": "rehman@gmail.com",
+      "password": "Rehman123",
+      "id": "Z6kP07dQiKXmUD2caRS58"
+    },
+    {
+      "name": "Ferid",
+      "email": "ferid@gmail.com",
+      "password": "Ferid123",
+      "id": "CLzC7-yH6xjxJw-dsfJGH"
+    }
+  ],
+  "selectedProduct": {
+    "id": 2,
+    "url": "https://images.unsplash.com/photo-1546561892-65bf811416b9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGFydGglMjB2YWRlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Darth Vader",
+    "price": "58.00",
+    "category": "starWars",
+    "about": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo, quia ridiculus doloribus vero dictum? Penatibus donec placeat faucibus, dolorum do. Animi porta anim magnam"
+  },
+  "loggedCustomer": {
+    "name": "Rehman",
+    "email": "rehman@gmail.com",
+    "password": "Rehman123",
+    "id": "Z6kP07dQiKXmUD2caRS58"
+  }
+}

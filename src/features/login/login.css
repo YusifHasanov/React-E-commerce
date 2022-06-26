@@ -1,0 +1,29 @@
+@media screen and (min-width: 100px) {
+    .login-container {
+        padding: 10px 40px 60px 40px;
+    text-align: center;
+    }
+    .login-container > p{
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .login-btn{
+        border-radius:0 !important;
+        background-color: #2A7AE4 !important;
+        padding: 8px 16px !important;
+        border:1px solid transparent !important;
+    }
+}
+@media screen and (min-width: 650px) {
+    .login-container {
+        padding: 92px 240px 91px 240px;
+
+    }
+}
+@media screen and (min-width: 1200px){
+    .login-container {
+        padding: 10px 500px 60px 500px;
+
+    }
+}

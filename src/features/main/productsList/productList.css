@@ -1,0 +1,144 @@
+@media screen and (min-width: 100px) {
+    .product-header {
+        padding: 16px 15%;
+    }
+
+    .product-header > h3 {
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 26px;
+        color: #464646;
+    }
+
+    .product-header > p {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        color: #2A7AE4;
+        margin-bottom: 8px !important;
+        cursor: pointer;
+
+    }
+
+    .product-box {
+        margin: 5px;
+        padding: 5px;
+        box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+        width: 140px;
+        height: 140px;
+        object-fit: cover;
+
+    }
+
+    .add-btn {
+
+
+        cursor: pointer;
+    }
+
+    .add-btn-span{
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        display: none;
+    }
+    .products-box:hover .add-btn-span{
+        display: inline !important;
+    }
+
+
+    .product-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 0 16px;
+    }
+
+    .productName {
+        color: #464646;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .product-price {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        color: #464646;
+        margin-bottom: 5px;
+
+    }
+
+    .seeProduct {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        margin-bottom: 5px;
+        color: #2A7AE4;
+        cursor: pointer;
+    }
+}
+
+    @media screen and (min-width: 650px) {
+
+    .product-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .product-header {
+        padding: 16px 8%;
+    }
+
+    .product-box {
+        width: 150px;
+        height: 150px;
+    }
+
+    .center-box {
+        padding: 16px 0;
+    }
+
+
+}
+
+    @media screen and (min-width: 1000px) {
+
+    .product-box {
+        width: 200px;
+        height: 200px;
+    }
+}
+@media screen and (min-width: 1200px) {
+
+    .product-container {
+        grid-template-columns: repeat(6, 1fr);
+        padding-left:152px ;
+        padding-right: 152px;
+    }
+
+    .product-header {
+        padding: 16px 12%;
+    }
+
+    .product-box {
+        width: 170px;
+        height: 170px;
+    }
+
+    .center-box {
+        padding: 32px 0;
+    }
+
+
+}
+
+@media screen and (min-width: 1800px){
+
+
+    .product-box {
+        width: 220px;
+        height: 220px;
+    }
+}

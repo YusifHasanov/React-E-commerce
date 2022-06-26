@@ -1,0 +1,93 @@
+@media screen and (min-width: 100px) {
+
+    .nav-container {
+        padding: 16px;
+    }
+
+    .navbarLogo {
+        height: 28px;
+        width: 100px;
+        cursor: pointer;
+    }
+
+    .navbarLogin-btn {
+        font-weight: 600 !important;
+        font-size: 14px !important;
+        padding: 12px 47px !important;
+        line-height: 16px !important;
+        border-radius: 0 !important;
+        border-color: #2A7AE4 !important;
+        color: #2A7AE4 !important;
+    }
+
+
+    .search-icon, .navbar-card,.log-out-btn {
+        cursor: pointer;
+    }
+    .navbar-profile-container{
+        display: flex;
+        align-items: center;
+    }
+    .navbar-profile-container >div:not(:last-child){
+     padding-right: 15px;
+    }
+
+
+}
+
+
+@media screen and (min-width: 650px) {
+
+
+    .navbarLogo {
+        height: 28px;
+        width: 100px;
+        margin-right: 32px;
+
+    }
+
+    .nav-container {
+        padding: 16px 32px;
+    }
+
+    .search-form {
+        border: 1px solid transparent;
+        background-color: #F5F5F5;
+        padding: 6px 16px;
+        border-radius: 20px;
+    }
+
+    .searchInput {
+        border: 1px solid transparent;
+        background-color: #F5F5F5;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 16px;
+        color: #A2A2A2;
+    }
+
+    .search-icon {
+        color: #A2A2A2;
+    }
+
+    .navbarLogin-btn {
+        padding: 12px 60px !important;
+    }
+}
+
+
+@media screen and (min-width: 1200px) {
+    .nav-container {
+        padding: 32px 152px;
+    }
+
+    .navbarLogo {
+        height: 50px;
+        width: 176px;
+        margin-right: 32px;
+    }
+
+    .navbarLogin-btn {
+        padding: 12px 70px !important;
+    }
+}

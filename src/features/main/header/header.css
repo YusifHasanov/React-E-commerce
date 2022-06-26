@@ -1,0 +1,74 @@
+@media screen and (min-width: 100px) {
+    .header-container {
+
+        background-image: url("./../../../assets/bg/header-bg.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 100%;
+
+        color: #fff;
+        padding: 78px 16px 16px 16px;
+    }
+
+    .header-container > h3 {
+
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    .header-container > p {
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .header-container > .see-console-btn {
+        font-weight: 600 !important;
+        font-size: 14px !important;
+        line-height: 16px !important;
+        border-radius: 0 !important;
+        padding: 12px 16px !important;
+        text-transform: capitalize !important;
+    }
+
+
+}
+
+@media screen and (min-width: 650px) {
+    .header-container {
+        padding: 161px 32px 32px 32px;
+    }
+
+    .header-container > h3 {
+        font-size: 52px;
+        line-height: 61px;
+    }
+
+    .header-container > p {
+        font-size: 22px;
+        line-height: 26px;
+        font-weight: 700;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .header-container {
+        padding: 150px 152px 32px 152px;
+    }
+
+    .header-container > h3 {
+        font-size: 52px;
+        line-height: 61px;
+    }
+
+    .header-container > p {
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .header-container > .see-console-btn{
+        padding:16px!important;
+    }
+}
